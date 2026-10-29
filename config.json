@@ -1,0 +1,63 @@
+{
+  "settings": {
+    "stable_frames": 5,
+    "release_frames": 4,
+    "cooldown_ms": 400,
+    "dry_run": false,
+    "enabled_on_start": true,
+    "mirror": true,
+    "swap_handedness": true,
+    "highlight_alpha": 0.35,
+    "capture_delay_s": 0.1,
+    "capture_duration_s": 0.1,
+    "thresholds": {
+      "extend_ratio": 1.1,
+      "thumb_tip_ratio": 1.05,
+      "thumb_spread": 0.6
+    }
+  },
+  "bindings": [
+    {
+      "name": "quas",
+      "gesture": "Left:11000 Right:11000",
+      "key": "q",
+      "mode": "press",
+      "color": "#2f8fed"
+    },
+    {
+      "name": "wex",
+      "gesture": "Left:10000 Right:10000",
+      "key": "w",
+      "mode": "press",
+      "color": "#b44db9"
+    },
+    {
+      "name": "exort",
+      "gesture": "Left:11001 Right:11001",
+      "key": "e",
+      "mode": "press",
+      "color": "#ecb133"
+    },
+    {
+      "name": "invoke",
+      "gesture": "Left:11100 Right:11100",
+      "key": "r",
+      "mode": "press",
+      "color": "#ffffff"
+    },
+    {
+      "name": "cast1",
+      "gesture": "*:01000",
+      "key": "d",
+      "mode": "press",
+      "color": "#00ff00"
+    },
+    {
+      "name": "cast2",
+      "gesture": "*:01100",
+      "key": "f",
+      "mode": "press",
+      "color": "#00ff00"
+    }
+  ]
+}
