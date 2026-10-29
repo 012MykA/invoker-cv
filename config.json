@@ -8,8 +8,8 @@
     "mirror": true,
     "swap_handedness": true,
     "highlight_alpha": 0.35,
-    "capture_delay_s": 0.1,
-    "capture_duration_s": 0.1,
+    "capture_delay_s": 0.0,
+    "capture_duration_s": 0.0,
     "thresholds": {
       "extend_ratio": 1.1,
       "thumb_tip_ratio": 1.05,
